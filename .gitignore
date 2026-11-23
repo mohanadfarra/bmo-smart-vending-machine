@@ -1,0 +1,3 @@
+manager/config/db.local.php
+*.log
+desktop.ini
